@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Third{
     static void main() {
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome! to Divisibility Checker of 5");
+        System.out.println("Welcome! to Divisibility Checker for 5");
         System.out.println("Enter The Number: ");
         int n = input.nextInt();
 //        Here I have used ternary Conditional Operator
